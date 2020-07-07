@@ -5,7 +5,6 @@ using System.Collections;
 
 
 
-
 //在編輯模式執行
 [ExecuteInEditMode]
 public class CardSystem : MonoBehaviour
